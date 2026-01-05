@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:
+# Date:22/12/2025
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -23,114 +23,201 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-"coimbatore.html
-<!DOCTYPE html>
-<html>
-  <head>
-      <title> COIMBATORE </title>
-  </head>
-  <body>
-      <h1 align='center'>COIMBATORE</h1>
-      <img src="https://www.tourmyindia.com/states/tamilnadu/images/monkey-falls.jpg" align="middle" height="300"width="600">
-      <h2>Monkey Falls</h2>
-      <p>One of the most famous tourist attractions in Coimbatore happens to be the Monkey Falls. Located roughly 65 kilometres away from city centre, the falls is enveloped by intense green foliage and rocky cliffs. Gushing down from a substantial height, the beautiful cascade is an amazing sight to behold. As it falls down at a great speed, it forms intense white froth in the pool below.</p>
-  </body>
-</html>
-salem.html
- <!DOCTYPE html>
-<html>
-  <head>
-      <title> SALEM </title>
-  </head>
-  <body>
-      <h1 align='center'>SALEM</h1>
-      <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f8/d5/d9/photo0jpg.jpg?w=1200&h=-1&s=1" align="middle" height="300"width="600">
-      <h2>Witch Museum</h2>
-      <p>Salem, MA offers several witch-themed museums like the Salem Witch Museum, Witch Dungeon Museum, and Witch History Museum, alongside historical sites like The Witch House (Judge Corwin's home) and the Witch Trials Memorial, plus the Bewitched Statue, offering different dives into the 1692 trials and modern witchcraft culture. Key spots include the Peabody Essex Museum (PEM) for deeper history, Proctor's Ledge (execution site), and general witchy shops on Essex Street, creating a mix of historical accuracy and popular fascination</p>
-  </body>
-</html>
+"
+map.html
 
- chennai.html
 <!DOCTYPE html>
 <html>
-  <head>
-      <title> CHENNAI </title>
-  </head>
-  <body>
-      <h1 align='center'>CHENNAI</h1>
-      <img src="https://www.treebo.com/blog/wp-content/uploads/2025/06/Header-1-1.jpg" align="middle" height="300"width="600">
-      <h2>Marina Beach</h2>
-      <p> Marina Beach Chennai is India's Longest Beach?Marina Beach in Chennai is India's longest and the world's second-longest urban beach, stretching along the Bay of Bengal with a popular promenade for strolling, enjoying sunrises, and public events, though swimming isn't recommended due to strong undercurrents, making it a vital leisure spot with landmarks like the lighthouse and various statues </p>
-  </body>
-</html>
-
- madurai.html
- <!DOCTYPE html>
-<html>
-  <head>
-      <title> madurai </title>
-  </head>
-  <body>
-      <h1 align='center'>MADURAI</h1>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROfl4WiQ8XajioudaFbP1D4eMWKIhAGbuvrg&s" align="middle" height="300"width="600">
-      <h2>Meenakshi Amman Temple</h2>
-      <p>Madurai, a city rich in culture, offers highlights like the magnificent Meenakshi Amman Temple, known for its stunning Dravidian architecture and towering gopurams, alongside the historic Thirumalai Nayakkar Mahal, a beautiful Indo-Saracenic palace. Don't miss the natural beauty of Samanar Hills, ancient Jain caves, the serene Vandiyur Mariamman Teppakulam (temple tank), and the historical insights at the Gandhi Memorial Museum, making Madurai a diverse cultural and spiritual journey. </p>
-  </body>
-</html>
-
-thanjavur.html
-<!DOCTYPE html>
-<html>
-  <head>
-      <title> Thanjavur</title>
-  </head>
-  <body>
-      <h1 align='center'>Thanjavur</h1>
-      <img src="https://assets-news.housing.com/news/wp-content/uploads/2022/08/26004150/THANJAVUR-FEATURE-compressed-686x400.jpg" align="middle" height="300"width="600">
-      <h2>Thanjai Periya Kovil</h2>
-      <p>Thanjai Periya Kovil (Brihadeeswarar Temple) in Thanjavur, a UNESCO World Heritage site, is a magnificent 11th-century Chola masterpiece dedicated to Lord Shiva, famous for its towering Dravidian architecture, massive granite Vimana, colossal Shiva Linga, and the huge single-stone Nandi bull, making it a must-visit for its historical grandeur and architectural brilliance. 
-</p>
-  </body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
-<img id='Image-Maps-Com-image-maps-2023-04-20-084957"
-src="mymop.jpg" border="0" width="1920' height="974" orgWidth="1920"
-orgHeight="974" usemop='#imoge-mops-2023-04-20-084957" olt="/>
-<mop name="imoge-maps-2023-04-20-084957" id="ImageMapsCom-imoge-
+    <title>My City</title>
 
-maps-2023-04-20-084957">
-<area alt=" title="Arunachala Hill" href="hill.html' shape="rect"
-coords="642,370,798,430" style='outline:none;" torget="_self" dato-
-maphilight='aurachala hill' />
-<area alt=" title='cave"href="cave.html' shape="rect" coords="689,489,885,565"
-style='outline:none;" torget="_self" data-mophilight='cave' />
-<area alt=' title="college" href="college.html" shape="rect"
-coords="910,725,1046,836" style="outline:none;" torget=" self" dota-
-maphilight='college
-<area alt=" title="hotel" href="hotel.html" shope="rect" coords="982,305,1214,371"
-style="outline:none;"torget="_self" dota-mophilight='hotel' />
-<area alt="" title="school" href="school.html' shape="rect"
-coords="230,714,470,813" style='outline:none;" trget=" self" dato-
-maphilight='school' />
-<area shape='rect* coords="1918,972,1920,974" alt="Image Map"
-style='outline:none;" title="Imoge Map" href="https://www.imoge-maps.com/"/>
-</map>
-</body>
-</html> 
+    <style>
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align:center;">CHENNAI</h1>
+    <h3 style="text-align:center;">Nivedha K(25013942)</h3>
+
+    <img src="Screenshot 2025-12-14 074007.png" usemap="#image-map">
+
+    <map name="image-map">
+        <area alt="Sholinghur" href="Sholinghur.html" coords="221,367,66" shape="circle">
+        <area alt="Tambaram" href="Tambaram.html" coords="1440,705,60" shape="circle">
+        <area alt="Thiruvallur" href="Thiruvallur.html" coords="1098,335,58" shape="circle">
+        <area alt="Adyar" href="Adyar.html" coords="1728,572,64" shape="circle">
+    </map>
+
+    <!-- ✅ PLACE LIST HERE -->
+    <hr>
+
+    <h2>Places in Chennai</h2>
+
+    <ul>
+        <li><a href="Adyar.html">Adyar</a></li>
+        <li><a href="Tambaram.html">Tambaram</a></li>
+        <li><a href="Sholinghur.html">Sholinghur</a></li>
+        <li><a href="Thiruvallur.html">Thiruvallur</a></li>
+    </ul>
+
 </body>
 </html>
+
+Adyar.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Adyar</title>
+    <style>
+        body {
+            background-color: #fce4ec;
+            font-family: Verdana, sans-serif;
+            margin: 0;
+            padding: 40px;
+        }
+        .section {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            border: 2px dashed #ad1457;
+        }
+    </style>
+</head>
+<body>
+    <h1>Adyar</h1>
+    <div class="section">
+        <p>
+            Adyar is a well-known residential and commercial area in Chennai.
+            It is located along the banks of the Adyar River and close to the Bay of Bengal.
+            The area is famous for educational institutions, IT offices, and peaceful residential localities.
+            Adyar is also known for its greenery and good quality of life.
+        </p>
+    </div>
+</body>
+</html>
+
+Tambaram.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tambaram</title>
+    <style>
+        body {
+            background-color: #e8f5e9;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 40px;
+        }
+        .card {
+            background: #ffffff;
+            padding: 25px;
+            border-left: 8px solid #2e7d32;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tambaram</h1>
+    <div class="card">
+        <p>
+            Tambaram is a major suburban area located in the southern part of Chennai.
+It serves as an important railway junction and transport hub.
+The area has good connectivity to IT corridors and educational institutions.
+Tambaram is a rapidly developing residential and commercial zone.
+        </p>
+    </div>
+</body>
+</html>
+
+Sholinghur.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sholinghur</title>
+    <style>
+        body {
+            background-color: #e3f2fd;
+            font-family: "Times New Roman", serif;
+            margin: 0;
+            padding: 40px;
+        }
+        .box {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sholinghur</h1>
+    <div class="box">
+        <p>
+            Sholinganur is a fast-growing locality in Chennai, known for its IT parks and offices.
+It lies along the Old Mahabalipuram Road (OMR), also called the IT corridor.
+Many software companies and professionals are located in this area.
+Sholinganur plays a key role in Chennai’s technological development.
+        </p>
+    </div>
+</body>
+</html>
+
+Thiruvallur.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thiruvallur</title>
+    <style>
+        body {
+            background-color: #fff3e0;
+            font-family: Georgia, serif;
+            margin: 0;
+            padding: 40px;
+        }
+        .content {
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Thiruvallur</h1>
+    <div class="content">
+        <p>
+            Thiruvallur is a town located on the outskirts of Chennai.
+It is known for its temples, especially the Veera Raghava Perumal Temple.
+The area has a mix of cultural heritage and industrial growth.
+Thiruvallur connects Chennai with nearby towns and rural regions.
+        </p>
+    </div>
+</body>
+</html>
+
 # OUTPUT
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/50f803ee-7a81-473a-9397-3c671606fbad" />
+
+<img width="1280" height="630" alt="image" src="https://github.com/user-attachments/assets/4c941cdf-a0c0-4c7b-9b34-43942c9e1bed" />
+
+![WhatsApp Image 2026-01-05 at 09 36 04](https://github.com/user-attachments/assets/67465f60-0c7b-480f-b31d-ae635eea5661)
+
+![WhatsApp Image 2026-01-05 at 09 36 18](https://github.com/user-attachments/assets/c52a7a09-c0d1-400e-aca4-6a012fefbf12)
+
+![WhatsApp Image 2026-01-05 at 09 36 30](https://github.com/user-attachments/assets/c6ea6de5-1253-4db5-907b-30d410f2ff2e)
+
+
+
+
+
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
